@@ -1,0 +1,12 @@
+@font-face {
+    font-family: LosPiojos;
+    src: url(letra1.ttf);
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/da/ff/9d/daff9df1d8930d76d34e4b02e52e936f.jpg");
+}
+
+.nombre1 {
+    font-family: LosPiojos;
+}
